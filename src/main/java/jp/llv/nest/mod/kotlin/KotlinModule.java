@@ -30,7 +30,7 @@ import javax.inject.Inject;
  *
  * @author toyblocks
  */
-@Module(name="kotlin", author = "toyblocks", version=2)
+@Module(name="kotlin", author = "toyblocks", version=3)
 public class KotlinModule {
     @Inject
     public KotlinModule() {
